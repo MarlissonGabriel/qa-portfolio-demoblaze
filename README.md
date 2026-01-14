@@ -1,123 +1,116 @@
-🧪 Projeto de QA – DemoBlaze (E-commerce)
-📌 Sobre o projeto
+# 🧪 Projeto de QA – DemoBlaze (E-commerce)
 
-Este repositório apresenta um projeto de QA focado em testes manuais realizados no site DemoBlaze, uma aplicação de e-commerce pública usada para fins educacionais.
+## 📌 Sobre o projeto
 
-O objetivo é demonstrar habilidades essenciais de um QA Júnior, incluindo planejamento, escrita e execução de casos de teste, identificação e documentação de bugs e comunicação clara dos resultados.
+Este repositório apresenta um **projeto de QA focado em testes manuais** realizados no site **DemoBlaze**, uma aplicação de e-commerce pública usada para fins educacionais.
 
-⚠️ Projeto de caráter educacional. Nenhum teste invasivo foi realizado.
+O objetivo é demonstrar habilidades essenciais de um **QA Júnior**, incluindo planejamento, escrita e execução de casos de teste, identificação e documentação de bugs e comunicação clara dos resultados.
 
-🎯 Objetivos
+> ⚠️ Projeto de caráter educacional. Nenhum teste invasivo foi realizado.
 
-Validar funcionalidades principais de um e-commerce
+---
 
-Identificar defeitos funcionais e de usabilidade
+## 🎯 Objetivos
 
-Praticar documentação de testes e registro de bugs
+* Validar funcionalidades principais de um e-commerce
+* Identificar defeitos funcionais e de usabilidade
+* Praticar documentação de testes e registro de bugs
+* Simular a rotina real de um QA
 
-Simular a rotina real de um QA
+---
 
-🔍 Escopo de Testes
+## 🔍 Escopo de Testes
 
-Funcionalidades testadas:
+**Funcionalidades testadas:**
 
-Cadastro de usuário (Sign up)
+* Cadastro de usuário (Sign up)
+* Login
+* Navegação por categorias
+* Adição de produto ao carrinho
+* Finalização de pedido (Place Order)
 
-Login
+**Fora do escopo:**
 
-Navegação por categorias
+* Testes de performance
+* Testes de segurança avançados
+* Integrações externas
 
-Adição de produto ao carrinho
+---
 
-Finalização de pedido (Place Order)
+## 🛠️ Ambiente de Testes
 
-Fora do escopo:
+* Aplicação: DemoBlaze
+* Tipo: Web
+* Navegador: Google Chrome
+* Sistema Operacional: Windows / Android
 
-Testes de performance
+---
 
-Testes de segurança avançados
+## 🧪 Tipos de Teste Aplicados
 
-Integrações externas
+* Testes funcionais
+* Testes manuais
+* Testes exploratórios
+* Testes de regressão (simulados)
 
-🛠️ Ambiente de Testes
+---
 
-Aplicação: DemoBlaze
-
-Tipo: Web
-
-Navegador: Google Chrome
-
-Sistema Operacional: Windows / Android
-
-🧪 Tipos de Teste Aplicados
-
-Testes funcionais
-
-Testes manuais
-
-Testes exploratórios
-
-Testes de regressão (simulados)
-
-📋 Casos de Teste
+## 📋 Casos de Teste
 
 Os casos de teste estão documentados em:
 
-docs/casos-de-teste.md
+* `docs/casos-de-teste.md`
 
 Cada caso de teste contém:
 
-ID
+* ID
+* Cenário
+* Passos
+* Resultado esperado
+* Resultado obtido
+* Status
 
-Cenário
+---
 
-Passos
-
-Resultado esperado
-
-Resultado obtido
-
-Status
-
-🐞 Relatório de Bugs
+## 🐞 Relatório de Bugs
 
 Os bugs identificados durante a execução dos testes estão documentados em:
 
-docs/relatorio-de-bugs.md
+* `docs/relatorio-de-bugs.md`
 
 Cada bug contém:
 
-Título
+* Título
+* Descrição
+* Passos para reprodução
+* Resultado esperado
+* Resultado atual
+* Severidade
+* Evidências
 
-Descrição
+---
 
-Passos para reprodução
-
-Resultado esperado
-
-Resultado atual
-
-Severidade
-
-Evidências
-
-📸 Evidências
+## 📸 Evidências
 
 As evidências (prints de tela) estão organizadas na pasta:
 
-evidencias/
+* `evidencias/`
 
-📚 Lições Aprendidas
+---
 
-Importância de validar fluxos críticos do usuário
+## 📚 Lições Aprendidas
 
-Atenção a mensagens de erro e feedback ao usuário
+* Importância de validar fluxos críticos do usuário
+* Atenção a mensagens de erro e feedback ao usuário
+* Valor da documentação clara para comunicação com o time
 
-Valor da documentação clara para comunicação com o time
+---
 
-👤 Autor
+## 👤 Autor
 
-Marlisson Gabriel
+**Marlisson Gabriel**
 QA | Estudante de Análise e Desenvolvimento de Sistemas
+
+---
 
 🔗 Site testado: DemoBlaze
